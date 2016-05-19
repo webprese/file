@@ -1,0 +1,2 @@
+[29-Jan-2016 13:04:02 UTC] PHP Fatal error:  Class 'FrmDb' not found in /home/mgeonli/public_html/wp/wp-content/plugins/formidable/deprecated.php on line 15
+[29-Jan-2016 13:04:03 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/mgeonli/public_html/wp/wp-content/plugins/formidable/classes/controllers/FrmHooksController.php on line 8

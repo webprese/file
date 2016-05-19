@@ -1,0 +1,134 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>600</stageHeight>
+	<width>640</width>
+	<height>500</height>
+	<dynamicScaling>false</dynamicScaling>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://managementexpertsinc.com/wp/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>800</zoomImageWidth>
+	<zoomImageHeight>1200</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x749BC2</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>false</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>MGE Newsletter #8</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="MGE-newsletter-8--1" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_sjdnWA.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_sjdnWA.gif</page>
+		<page name="MGE-newsletter-8--2" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_t7cBokyfsx.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_t7cBokyfsx.gif</page>
+		<page name="MGE-newsletter-8--3" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Gw0P2Ia.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Gw0P2Ia.gif</page>
+		<page name="MGE-newsletter-8--4" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_r7iJOIM.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_r7iJOIM.gif</page>
+		<page name="MGE-newsletter-8--5" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_h92hirc.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_h92hirc.gif</page>
+		<page name="MGE-newsletter-8--6" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_RFMoPVus7.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_RFMoPVus7.gif</page>
+		<page name="MGE-newsletter-8--7" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_cD1T0C8N.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_cD1T0C8N.gif</page>
+		<page name="MGE-newsletter-8--8" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_SAc8VuDh.gif" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_SAc8VuDh.gif</page>
+	</pages>
+<album id="8" pageWidth="320" pageHeight="500" frameSize="0">
+<images>
+<img id="0" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_sjdnWA.gif" width="792" height="1209" />
+<img id="1" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_t7cBokyfsx.gif" width="792" height="1245" />
+<img id="2" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_Gw0P2Ia.gif" width="792" height="1194" />
+<img id="3" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_r7iJOIM.gif" width="792" height="1171" />
+<img id="4" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_h92hirc.gif" width="792" height="1184" />
+<img id="5" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_RFMoPVus7.gif" width="792" height="1182" />
+<img id="6" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_SAc8VuDh.gif" width="792" height="1172" />
+<img id="7" thumb="http://managementexpertsinc.com/wp/wp-content/pageflip/images/t_i_cD1T0C8N.gif" width="792" height="1162" />
+</images>
+<pages>
+<page id="-1"></page>
+<page id="0" template="1">
+<img id="0" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="1" template="1">
+<img id="1" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="2" template="1">
+<img id="2" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="3" template="1">
+<img id="3" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="4" template="1">
+<img id="4" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="5" template="1">
+<img id="5" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="6" template="1">
+<img id="6" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="7" template="1">
+<img id="7" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+</pages>
+</album>
+</FlippingBook>

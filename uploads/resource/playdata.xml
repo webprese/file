@@ -1,0 +1,71 @@
+<playData>
+  <viewItem type="template" tempType="tempSlide" startTime="0" duration="-1">
+    <viewItem type="background" index="0">
+      <background position="stretch" backColor="16777215" backDisAlpha="1.00" />
+    </viewItem>
+    <dataInfo size="2839" url="resource/blank.swf" />
+    <abstractBtnName manualPlay="Manual Play" autoPlay="Auto Play" soundBtnOnName="ON" soundBtnOffName="OFF" />
+  </viewItem>
+  <!-- images data area start here ... -->
+  <viewItem type="transition">
+    <transition transId="Fade" />
+    <dataInfo size="587" url="resource/trans/Fade.swf" />
+  </viewItem>
+  <viewItem type="image" startTime="7" duration="7">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?cat=1" openType="_blank" />
+    <dataInfo size="21208" url="resource/slides/image_0.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="18" y="375" width="524" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text> The MGE program is different from anything else. It&#xD;works! My new patients increased by 200% per month!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="2.21875" color="16777215"/></textInfo><hyperLink enabled="true" openType="_blank" url="http://www.managementexpertsinc.com/?cat=1"/></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="12" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?page_id=1113" openType="_blank" />
+    <dataInfo size="36432" url="resource/slides/image_1.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="2"><bounds x="18" y="375" width="489" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text>&quot;MGE helped take our new patient numbers from 50&#xD;to over 220 per month, with no HMOs!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="2.42578125" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="18" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?page_id=399" openType="_blank" />
+    <dataInfo size="48931" url="resource/slides/image_2.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="21" y="375" width="481" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text> &quot;Working with MGE, I could to drop all HMOs and&#xD;PPOs. MGE helped me to create a thriving practice!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="3.671875" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="24" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?page_id=1354" openType="_blank" />
+    <dataInfo size="48366" url="resource/slides/image_3.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="21" y="336" width="511" height="109" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text> &quot;Within three months of training at MGE, I had already&#xD;doubled my collections and new patients  without&#xD;managed care!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="3.671875" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="30" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?page_id=1008" openType="_blank" />
+    <dataInfo size="31679" url="resource/slides/image_4.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="15" y="375" width="515" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text> &quot;In one year, I went from 130,000 and 35 new patients&#xD;to $230,000 and 60 new patients per month!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="3.671875" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="36" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?cat=51" openType="_blank" />
+    <dataInfo size="31141" url="resource/slides/image_5.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="22" y="405" width="496" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="Fly In Left" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="0" endAlpha="1" endEffRemoveBool="false"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="180" distance="300" tweenerType="easeOutCubic" moveType="moveFrom" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text> &quot;By the second MGE seminar  our collections doubled&#xD;while working 25% less hours!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="3.671875" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <viewItem type="image" startTime="42" duration="6">
+    <transition transId="Fade" />
+    <hyperLink url="http://www.managementexpertsinc.com/?cat=36" openType="_blank" />
+    <dataInfo size="39219" url="resource/slides/image_6.jpg" />
+    <viewItems>
+  &#xd;<viewItem type="textEffect" alpha="1" index="1"><bounds x="53" y="406" width="597" height="76" scaleX="1" scaleY="1"/><effect version="2.0"><target><entryEffect name="None" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="1" endEffRemoveBool="false"/></entryEffect><keepEffect duration="125"/><leaveEffect name="Fly Out Right" duration="24"><baseEffect name="EffectAlpha" startTime="0" duration="24" startAlpha="1" endAlpha="0" endEffRemoveBool="true"/><baseEffect name="EffectMove" startTime="0" duration="24" direction="0" distance="300" tweenerType="easeInCubic" moveType="moveTo" endEffRemoveBool="true"/></leaveEffect></target></effect><textInfo><text>&quot;With MGE&apos;s seminars, I went from 5 new patients to 7&#xD;per month. I also sent my staff and the change was immediate!&quot;</text><textFormat align="null" size="27" font="Myriad Pro Cond" color="0" bold="true" italic="false" underline="false"/><halation strength="3.671875" color="16777215"/></textInfo></viewItem>
+    </viewItems>
+  </viewItem>
+  <!-- images data area end -->
+</playData>

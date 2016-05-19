@@ -1,0 +1,151 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>650</stageHeight>
+	<width>800</width>
+	<height>518</height>
+	<dynamicScaling>false</dynamicScaling>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://managementexpertsinc.com/wp/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>800</zoomImageWidth>
+	<zoomImageHeight>1200</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHintEnabled>false</zoomHintEnabled>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x5C7A99</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>false</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>Services Catalog 2013</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="Product Catalog03" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_EnR5FP4Riqc.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_EnR5FP4Riqc.jpg</page>
+		<page name="Product Catalog04" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_6sgni0CA9Z30.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_6sgni0CA9Z30.jpg</page>
+		<page name="Product Catalog05" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_9A8y2Cc0RZqp.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_9A8y2Cc0RZqp.jpg</page>
+		<page name="Product Catalog06" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mQMQx1M16.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mQMQx1M16.jpg</page>
+		<page name="Product Catalog07" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_cHHMdp.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_cHHMdp.jpg</page>
+		<page name="Product Catalog08" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_1CEttHs.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_1CEttHs.jpg</page>
+		<page name="Product Catalog09" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_osxCbap7vmf.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_osxCbap7vmf.jpg</page>
+		<page name="Product Catalog10" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_SxEsqfF4vE2.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_SxEsqfF4vE2.jpg</page>
+		<page name="Product Catalog11" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_bGncjDquVF.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_bGncjDquVF.jpg</page>
+		<page name="Product Catalog12" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_zJW2KbBAG.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_zJW2KbBAG.jpg</page>
+		<page name="Product Catalog13" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_yh5Z6NxAIdk.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_yh5Z6NxAIdk.jpg</page>
+		<page name="Product Catalog14" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2XpWJhT.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2XpWJhT.jpg</page>
+		<page name="Product Catalog15" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Nq05M7.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Nq05M7.jpg</page>
+		<page name="Product Catalog16" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2kutdQN73eR.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2kutdQN73eR.jpg</page>
+		<page name="Product Catalog17" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_08dNo5LSrjh2.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_08dNo5LSrjh2.jpg</page>
+		<page name="Product Catalog18" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_o7DegYykDa.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_o7DegYykDa.jpg</page>
+		<page name="Product Catalog19" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_CNXlqedxxcZV.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_CNXlqedxxcZV.jpg</page>
+		<page name="Product Catalog20" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ZYfPK9.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ZYfPK9.jpg</page>
+		<page name="Product Catalog21" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_J6GAjM.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_J6GAjM.jpg</page>
+		<page name="Product Catalog22" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_UBkAc2X.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_UBkAc2X.jpg</page>
+		<page name="Product Catalog23" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_MSWJjBJy6.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_MSWJjBJy6.jpg</page>
+		<page name="Product Catalog24" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_r9BQapDf5dd.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_r9BQapDf5dd.jpg</page>
+		<page name="Product Catalog25" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_oATT8zs9.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_oATT8zs9.jpg</page>
+		<page name="Product Catalog26" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mEyvgLVa6W38.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mEyvgLVa6W38.jpg</page>
+		<page name="Product Catalog27" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_O7CiijbOY5.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_O7CiijbOY5.jpg</page>
+		<page name="Product Catalog28" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_kEAzR.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_kEAzR.jpg</page>
+		<page name="Product Catalog29" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ioAly4B.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ioAly4B.jpg</page>
+		<page name="Product Catalog30" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_z6ub2c3.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_z6ub2c3.jpg</page>
+		<page name="Product Catalog31" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_4tA17rRZo.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_4tA17rRZo.jpg</page>
+		<page name="Product Catalog32" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_pAEHRJ.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_pAEHRJ.jpg</page>
+		<page name="Product Catalog33" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2bjZoM2p7.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_2bjZoM2p7.jpg</page>
+		<page name="Product Catalog34" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_fb7HC5wu3lCW.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_fb7HC5wu3lCW.jpg</page>
+		<page name="Product Catalog35" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Z4HJ7wBz.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Z4HJ7wBz.jpg</page>
+		<page name="Product Catalog36" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_tiPr29Ey.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_tiPr29Ey.jpg</page>
+		<page name="Product Catalog37" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_WVqD2d3.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_WVqD2d3.jpg</page>
+		<page name="Product Catalog38" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Os4gs0CyWat.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_Os4gs0CyWat.jpg</page>
+		<page name="Product Catalog39" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_gXqshM7.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_gXqshM7.jpg</page>
+		<page name="Product Catalog40" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mvwNLn.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mvwNLn.jpg</page>
+		<page name="Product Catalog41" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_hoWsJMpCLO.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_hoWsJMpCLO.jpg</page>
+		<page name="Product Catalog42" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_pZsSOO.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_pZsSOO.jpg</page>
+		<page name="Product Catalog43" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_JKaOpok.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_JKaOpok.jpg</page>
+		<page name="Product Catalog44" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_s9TsnHK6lo.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_s9TsnHK6lo.jpg</page>
+		<page name="Product Catalog45" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ZeZ3LwDPLOy.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_ZeZ3LwDPLOy.jpg</page>
+		<page name="Product Catalog46" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_nyN9mCcatNw.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_nyN9mCcatNw.jpg</page>
+		<page name="Product Catalog47" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_vfXJ7o.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_vfXJ7o.jpg</page>
+		<page name="Product Catalog48" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mVrC1v.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_mVrC1v.jpg</page>
+		<page name="Product Catalog49" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_IG7RUv3hns1.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_IG7RUv3hns1.jpg</page>
+		<page name="Product Catalog50" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_c14DBr9QK4M.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_c14DBr9QK4M.jpg</page>
+		<page name="Product Catalog51" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_oHJGSJ.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_oHJGSJ.jpg</page>
+		<page name="Product Catalog52" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_bpL2EmRTi.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_bpL2EmRTi.jpg</page>
+		<page name="Product Catalog53" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_vBq3VoQi.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_vBq3VoQi.jpg</page>
+		<page name="Product Catalog54" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_5B98M235.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_5B98M235.jpg</page>
+		<page name="Product Catalog55" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_1uHT2fPnHd.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_1uHT2fPnHd.jpg</page>
+		<page name="Product Catalog56" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_8kxlbkBY.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_8kxlbkBY.jpg</page>
+		<page name="Product Catalog57" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_h5lu5SgXGa.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_h5lu5SgXGa.jpg</page>
+		<page name="Product Catalog58" zoomURL="http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_u1850yD.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://managementexpertsinc.com/wp/wp-content/pageflip/images/i_u1850yD.jpg</page>
+	</pages>
+<album id="12" pageWidth="400" pageHeight="518" frameSize="0">
+<images>
+</images>
+<pages>
+<page id="-1"></page>
+</pages>
+</album>
+</FlippingBook>

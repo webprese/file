@@ -1,0 +1,134 @@
+<FlippingBook>
+	<stageWidth>100%</stageWidth>
+	<stageHeight>600</stageHeight>
+	<width>640</width>
+	<height>500</height>
+	<dynamicScaling>false</dynamicScaling>
+	<scaleContent>true</scaleContent>
+	<centerContent>true</centerContent>
+	<preserveProportions>false</preserveProportions>
+	<hardcover>false</hardcover>
+	<hardcoverThickness>3</hardcoverThickness>
+	<frameWidth>0</frameWidth>
+	<frameColor>0xFFFFFF</frameColor>
+	<frameAlpha>100</frameAlpha>
+	<firstPage>0</firstPage>
+	<flipOnClick>true</flipOnClick>
+	<handOverCorner>true</handOverCorner>
+	<handOverPage>true</handOverPage>
+	<alwaysOpened>false</alwaysOpened>
+	<staticShadowsType>Symmetric</staticShadowsType>
+	<staticShadowsDepth>1</staticShadowsDepth>
+	<rigidPageSpeed>5</rigidPageSpeed>
+	<flipSound>http://mgeonline.com/wp/wp-content/pageflip/sounds/1.mp3</flipSound>
+	<preloaderType>Progress Bar</preloaderType>
+	<rigidPages>false</rigidPages>
+	<zoomEnabled>true</zoomEnabled>
+	<zoomImageWidth>825</zoomImageWidth>
+	<zoomImageHeight>1275</zoomImageHeight>
+	<zoomOnClick>true</zoomOnClick>
+	<zoomHint>Double click for zooming</zoomHint>
+	<centerBook>true</centerBook>
+	<useCustomCursors>false</useCustomCursors>
+	<dropShadowEnabled>true</dropShadowEnabled>
+	<dropShadowHideWhenFlipping>true</dropShadowHideWhenFlipping>
+	<backgroundColor>0xFFFFFF</backgroundColor>
+	<pageBack>0x749BC2</pageBack>
+	<backgroundImage></backgroundImage>
+	<backgroundImagePlacement>fit</backgroundImagePlacement>
+	<printEnabled>true</printEnabled>
+	<printTitle>Print Pages</printTitle>
+	<navigation>true</navigation>
+	<downloadURL></downloadURL>
+	<downloadTitle>Start Download</downloadTitle>
+	<downloadSize></downloadSize>
+	<downloadComplete>Complete</downloadComplete>
+	<popup>false</popup>
+	<autoReduce>false</autoReduce>
+	<allowPagesUnload>false</allowPagesUnload>
+	<autoFlip>50</autoFlip>
+	<closeSpeed>3</closeSpeed>
+	<darkPages>false</darkPages>
+	<dynamicShadowsDarkColor>0x000000</dynamicShadowsDarkColor>
+	<dynamicShadowsDepth>1</dynamicShadowsDepth>
+	<dynamicShadowsLightColor>0xFFFFFF</dynamicShadowsLightColor>
+	<firstLastButtons>true</firstLastButtons>
+	<flipCornerAmount>70</flipCornerAmount>
+	<flipCornerAngle>45</flipCornerAngle>
+	<flipCornerPlaySound>false</flipCornerPlaySound>
+	<flipCornerPosition>top-right</flipCornerPosition>
+	<flipCornerRelease>true</flipCornerRelease>
+	<flipCornerStyle>manually</flipCornerStyle>
+	<flipCornerVibrate>true</flipCornerVibrate>
+	<freezeOnFlip>false</freezeOnFlip>
+	<fullscreenEnabled>true</fullscreenEnabled>
+	<fullscreenHint>MGE Newspaper Issue 7</fullscreenHint>
+	<goToPageField>true</goToPageField>
+	<gotoSpeed>3</gotoSpeed>
+	<hardcoverEdgeColor>0xFFFFFF</hardcoverEdgeColor>
+	<hardcoverSound></hardcoverSound>
+	<highlightHardcover>true</highlightHardcover>
+	<loadOnDemand>true</loadOnDemand>
+	<moveSpeed>2</moveSpeed>
+	<navigationBarSkin>navigation</navigationBarSkin>
+	<navigationBarPlacement>bottom</navigationBarPlacement>
+	<navigationFlipOffset>30</navigationFlipOffset>
+	<playOnDemand>true</playOnDemand>
+	<showUnderlyingPages>false</showUnderlyingPages>
+	<slideshowAutoPlay>false</slideshowAutoPlay>
+	<slideshowButton>false</slideshowButton>
+	<slideshowDisplayDuration>5000</slideshowDisplayDuration>
+	<smoothPages>true</smoothPages>
+	<staticShadowsDarkColor>0x000000</staticShadowsDarkColor>
+	<staticShadowsLightColor>0xFFFFFF</staticShadowsLightColor>
+	<zoomUIColor>0x8f9ea6</zoomUIColor>
+	<pages>
+		<page name="MGE newsletter 7" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_appgnrv2idMk.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_appgnrv2idMk.jpg</page>
+		<page name="MGE newsletter 72" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_5oJkwf0co.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_5oJkwf0co.jpg</page>
+		<page name="MGE newsletter 73" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_IZBP3qP.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_IZBP3qP.jpg</page>
+		<page name="MGE newsletter 74" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_WtLNcKZSb5Lc.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_WtLNcKZSb5Lc.jpg</page>
+		<page name="MGE newsletter 75" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_3TWbdAP4Zy.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_3TWbdAP4Zy.jpg</page>
+		<page name="MGE newsletter 76" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_cZa3n2.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_cZa3n2.jpg</page>
+		<page name="MGE newsletter 77" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_2iwhEn.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_2iwhEn.jpg</page>
+		<page name="MGE newsletter 78" zoomURL="http://mgeonline.com/wp/wp-content/pageflip/images/i_aIDU3T0lPCf.jpg" zoomType="type4" target="type1" zoomHeight="600" zoomWidth="800">http://mgeonline.com/wp/wp-content/pageflip/images/i_aIDU3T0lPCf.jpg</page>
+	</pages>
+<album id="4" pageWidth="320" pageHeight="500" frameSize="0">
+<images>
+<img id="0" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_appgnrv2idMk.jpg" width="792" height="1224" />
+<img id="1" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_5oJkwf0co.jpg" width="792" height="1224" />
+<img id="2" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_IZBP3qP.jpg" width="792" height="1224" />
+<img id="3" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_3TWbdAP4Zy.jpg" width="792" height="1224" />
+<img id="4" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_WtLNcKZSb5Lc.jpg" width="792" height="1224" />
+<img id="5" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_cZa3n2.jpg" width="792" height="1224" />
+<img id="6" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_2iwhEn.jpg" width="792" height="1224" />
+<img id="7" thumb="http://mgeonline.com/wp/wp-content/pageflip/images/t_i_aIDU3T0lPCf.jpg" width="792" height="1224" />
+</images>
+<pages>
+<page id="-1"></page>
+<page id="0" template="1">
+<img id="0" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="1" template="1">
+<img id="1" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="2" template="1">
+<img id="2" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="3" template="1">
+<img id="3" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="4" template="1">
+<img id="4" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="5" template="1">
+<img id="5" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="6" template="1">
+<img id="6" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+<page id="7" template="1">
+<img id="7" scaling="scaleToFill" x="0" y="0" description="" />
+</page>
+</pages>
+</album>
+</FlippingBook>

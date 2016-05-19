@@ -1,0 +1,104 @@
+=== Plugin Name ===
+Contributors: Websimon
+Donate link: http://websimon.se/websimon-tables#donate
+Tags: table, tables, css, design, html table, custom tables
+Requires at least: 2.0.3
+Tested up to: 3.5
+Stable tag: 1.3.3
+
+A plugin to create, manage and design tables within wordpress. 
+Choose between readymade skins or make your own custom table CSS design.
+
+== Description ==
+Websimon Tables lets you create and design tables within your wordpress admin panel. No knowledge about php, HTML or CSS is needed. You can create
+as many tables as you wish and create a unique design for each table. You include the tables in your post or pages using a short and simple shortcode. 
+The tables can contain images or any type of html code so you can extend them for your own needs. 
+
+If you want to see more information, demos or screenshots of this plugin please visit http://websimon.se/websimon-tables. 
+
+== Installation ==
+
+1. Upload the entire websimon tables folder to the /wp-content/plugins/ directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+
+You will find 'websimon tables' menu in your WordPress admin panel (in tools).
+
+== Frequently Asked Questions ==
+
+= Do you have a question? =
+You will find an FaQ here:
+http://websimon.se/websimon-tables#askaquestion
+
+== Screenshots ==
+If you want to see screenshots of this plugin please visit http://websimon.se/websimon-tables
+
+== Changelog ==
+
+= Version 1.3.3 =
+* New Feature - Added a beta feature to import .csv files to a table
+* New Feature - Added a beta feature to export tables to .csv files
+* New Feature - Added support for shortcodes inside of tables.
+* New Feature - More options for choosing column width.
+* Structure change - The dynamic css is now loaded together with the table to improve page loading time.
+* Bug fix - Fixed the issue that made the column widths not working when you removed the table header.
+
+= Version 1.3.2 =
+* Small bugfix to fix that some users websites gets incorrect link to the dynamic stylesheet. 
+
+= Version 1.3.1 =
+* Same as 1.1.2 and 1.1.1 (which was a major update) but this update had to be done so that the update notification is sent out to all users.
+
+= Version 1.1.2 =
+* Bugfix - Fixes issue with some files and pictures not including correctly.
+
+= Version 1.1.1 =
+* New Feature - Its now possible to change the table name.
+* New Feature - You can now disable the table header.
+* New Feature - Its now possible to empty a tables content without changing the structure and design.
+* New Feature - You can move rows up and down.
+* New Feature - You can move columns left and right
+* New Feature - You can add rows and columns inside of a table
+* New Feature - You can delete rows and columns inside of a table
+* New Feature - Added some more textfields with the shortcodes for faster access.
+* New Feature - There is now an unique css class for each row if you want to design each row separately.
+* Bugfix - Fixed the issue that made the colorpicker not working.
+
+= Version 1.02 =
+* New Feature - You are now able to copy a table
+* New feature - You are now able to add a picture in the table headline/table footer
+* Bugfix - Fixed custom column width on custom skin
+
+= Version 1.01 =
+* Small fixes with uninstall routines. Now the plugin table and the related options is deleted when plugin is deleted.
+* Added som more save buttons when editing table content for tables with lots of information. 
+
+= 1.0 =
+* The plugin is released
+
+== Upgrade Notice ==
+
+= Version 1.3.3 =
+* Some new features where the largest update is the new BETA feature to import/export tables with .csv. 
+* Support for shortchodes inside of the tables where added
+* Some structure changes to make the loading time for table css faster.
+
+= Version 1.3.2 =
+* Upgrade to this version if your table designs doesn´t get displayed correctly
+
+= Version 1.3.1 =
+* Same as 1.1.2 and 1.1.1 (which was a major update) but this update had to be done so that the update notification is sent out to all users.
+
+= Version 1.1.1 =
+Alot of more functionality is added for the table content editor. You are now able to move, add or delete rows and columns directly in the table content page. 
+You are now able to change table names and disable the table header. 
+Small Bugfixes
+
+= Version 1.02 =
+Two new features are added. You are now able to copy a table and add pictures to the table headline/footer. 
+Small Bugfixes
+
+= 1.01 =
+This upgrade is small but important. Before the datase data was deleted when plugin was deactivated. Now it is deleted when plugin is uninstalled and deleted. 
+
+= 1.0 =
+The plugin is released

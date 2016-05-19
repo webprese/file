@@ -1,0 +1,126 @@
+/*
+Theme Name: Canvas Child Theme
+Version: 1.0
+Description: A Canvas Child Theme
+Author: flowlineDesigns
+Author URI: http://flowlinedesigns.com/
+Template: canvas
+*/
+ 
+@import url("../canvas/style.css");
+
+#navigation {
+margin-bottom: 0px!important;
+}
+#wrapper{
+position:relative;
+}
+#headerright{
+position: absolute;
+top: 65px;
+right: 0px;
+width: 300px;
+height: 20px;
+}
+#secondmenubar{
+position:relative;
+display:block;
+width:100%;
+height:40px;
+}
+
+
+#secondmenubar ul{
+display:block;
+list-style-type:none;
+position:relative;
+margin:0 auto;
+text-align:right;
+}
+#secondmenubar ul li,#secondmenubar ul li a{
+display:block;
+position:relative;
+float:right;
+font-weight:bold;
+font-size:12px;
+font-style:italic;
+}
+#secondmenubar ul li a{
+margin:0 10px 0 0;
+}
+#secondmenubar ul li.mycart a{
+background:url(images/my-cart.jpg) no-repeat left top;
+padding:0 0 0 25px;
+}
+.searchform input.s {
+padding: 5px;
+}
+.searchform{
+background-color: #F0F6FA;
+}
+.gform_wrapper .top_label .gfield_label { display:block;float:left; padding-right:20px; width: 100px; margin: 5px 0px 4px !important; font: normal normal normal 14px Arial, sans-serif; font-weight: bold; }
+
+/*
+*
+*styling specific to course cruise control page
+*
+*/
+        .cruise-control-page{width:800px; font-family:arial}
+        .cruise-control-page h1{font-size:20pt !important; width:1000px}
+	.cruise-control-page p{color:black !important}
+        .cruise-control-page div.video-div{width:1200px; background-color:#ebebeb}
+        .cruise-control-page div.graph-details{
+            display:inline-block; width:46%; vertical-align:top; padding:13px; position:relative; left:20px
+                
+        }
+        .cruise-control-page img.eye-opening-img{border:none !important;}
+        .cruise-control-page img.graphic{width:100%;border:none !important}
+        .cruise-control-page div.graph-details span{display:inline-block; margin-bottom:10px;}
+        .cruise-control-page .schedule-div{width:90%; position:relative; left:35px}
+        .cruise-control-page .textual-div{background-color:#05b4c3; padding:15px}
+        .cruise-control-page .textual-div .col-div{
+            display:inline-block; width:44%; vertical-align:text-top; padding:10px;
+        }
+        .cruise-control-page .textual-div .col-div h3{font-size:27pt; margin-bottom:-10px; color:#3c3c3c}
+        .cruise-control-page .textual-div .col-div p{font-size:14pt; color:white  !important; font-weight:400}
+        .cruise-control-page .red{color:#ac2626; font-weight:800; font-size:14pt}
+        .cruise-control-page .indent{position:relative; left:20px}
+        
+        
+        .cruise-control-page .schedule-div h2{text-align:center; border-bottom:2px solid black; color:black !important; margin-top:20px}
+        .cruise-control-page .timeblock{background-color:rgb(158, 206, 242); padding:5px; margin:14px; padding-left:25px}
+        .cruise-control-page .timeblock h3{font-size:15pt; color:#04569b  !important}
+        .cruise-control-page .timeblock.short{width:700px; position:relative; left:25px; background-color:white;}
+        .cruise-control-page .timeblock h4{position:relative;left:20px;width:600px; margin-top:-10px; color:black !important; font-weight:500 !important}
+        .cruise-control-page .timeblock .agenda-element{position:relative; left:70px; width:600px; padding:10px}
+        .cruise-control-page .timeblock .agenda-element h4{left:-25px; margin-bottom:-10px, color:black !important}
+        .cruise-control-page .timeblock .agenda-element p{width:550px}
+
+/* --------- Button CSS ---------- */
+
+
+.workshopbutton {
+    height: 78px;
+    width: 194;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.workshopbutton img {
+    position: relative;
+    top: 0px;
+
+}
+
+.workshopbutton img:hover {
+    top: -78px;
+}
+
+input.field.s {
+	display: none;
+}
+
+#secondmenubar {
+	height: 13px;
+}

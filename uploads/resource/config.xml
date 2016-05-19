@@ -1,0 +1,10 @@
+<config>
+  <swf width="588" height="400" scaleMode="showAll" alignMode="" preloaderSize="0" />
+  <preloader percentTextColor="16777215" bgColor="16777215" size="6552" url="resource/default.swf">
+  </preloader>
+  <dataLoadControl size="23549" url="resource/datacontrol.swf" />
+  <player size="131461" url="resource/player.swf" />
+  <playData size="10973" url="resource/playdata.xml" />
+  <playMode startType="" playType="autoPlay" endType="autoLoop" />
+  <imgDescription position="bottom" showType="auto" />
+</config>
